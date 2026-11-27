@@ -27,6 +27,7 @@
 		F4B78CDF30B9AA9900671E5B /* Tremoad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tremoad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4B78CEC30B9AA9B00671E5B /* TremoadTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TremoadTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4B78CF630B9AA9B00671E5B /* TremoadUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TremoadUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4B78D1430B9B24C00671E5B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +76,7 @@
 		F4B78CD630B9AA9900671E5B = {
 			isa = PBXGroup;
 			children = (
+				F4B78D1430B9B24C00671E5B /* README.md */,
 				F4B78CE130B9AA9900671E5B /* Tremoad */,
 				F4B78CEF30B9AA9B00671E5B /* TremoadTests */,
 				F4B78CF930B9AA9B00671E5B /* TremoadUITests */,

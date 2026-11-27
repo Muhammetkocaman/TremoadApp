@@ -1,0 +1,13 @@
+# Xcode: kişisel kullanıcı ayarları
+xcuserdata/
+*.xcuserstate
+
+# Xcode: derleme çıktıları
+DerivedData/
+build/
+
+# Swift Package Manager
+.build/
+
+# macOS: Finder'ın her klasöre bıraktığı gizli dosya
+.DS_Store
